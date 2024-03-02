@@ -1,0 +1,1 @@
+# switcheo-technical-challenge
